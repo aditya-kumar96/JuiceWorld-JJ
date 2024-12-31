@@ -1,50 +1,26 @@
-# Welcome to your Expo app 👋
+# Welcome to  JuiceWorld 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
+The Project is basically the online Juice Ordering system , where user can add there favourite fruit juice into cart , 
+and order accordingly . 
+the app is allow user to get their juice within few minutes .
 
-1. Install dependencies
+## Why Us ? 
+We believe in reality and practicality .
+nowadays everyone is busy in his own life.
+we directly co-ordinate with the fruit juice vendor to fulfil the customer's desire to have pure juice with some quality standards.
+the business model like big giant companies which provide food or grocery within minutes , we will follow the same concept in our fruit juice ordering system.
 
-   ```bash
-   npm install
-   ```
+## About Project
+this is open source repo . its free for all of you guys .
+please help us to create it more attractive and user-friendly app.
 
-2. Start the app
+## Technology we use -
+we will use React Native for building this application .
+and as a backend server we will use NodeJs .
+and for the Admin Panel we will use ReactJs.
 
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## About Me
+I am Aditya Kumar and i am dedicated React Native developer . nowadays i am giving my services to a reputated MNC company .
+i am having 2+ year experience as a React Native Developer. i am also familiar with Java , CSS , JS , HTML , Python , NodeJS , ReactJS .
